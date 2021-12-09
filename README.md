@@ -13,6 +13,8 @@
 
 **For installing nodemon** - `npm install -g nodemon`
 
+**For installing mongoose** - `npm install -g mongoose`
+
 # Running Project
 
 **For localhost deployment** - `node ./index.js`
