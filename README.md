@@ -3,9 +3,28 @@
 
 # Install Dependencies
 
-**For Backend** - `npm i`
+**In root Folder** - `npm i`
 
-**For Frontend** - `cd frontend` ` npm i`
+**For installing node** - `npm install -g node`
+
+**For installing express** - `npm install -g express`
+
+**For installing heroku** - `npm install -g heroku-cli`
+
+**For installing nodemon** - `npm install -g nodemon`
+
+# Running Project
+
+**For localhost deployment** - `node ./index.js`
+
+## or
+
+**For localhost deployment** - `nodemon ./index.js`
+
+
+<!-- **For Backend** - `npm i`
+
+**For Frontend** - `cd frontend` ` npm i` -->
 
 <!-- ## Env Variables
 
