@@ -13,7 +13,7 @@
 
 **For installing nodemon** - `npm install -g nodemon`
 
-**For installing mongoose** - `npm install -g mongoose`
+**For installing mongoose** - `npm install -g mongoose` and `npm link mongoose`
 
 # Running Project
 
