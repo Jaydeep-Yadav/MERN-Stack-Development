@@ -15,6 +15,8 @@
 
 **For installing mongoose** - `npm install -g mongoose` and `npm link mongoose`
 
+PS : `-g` for global install 
+
 # Running Project
 
 **For localhost deployment** - `node ./index.js`
